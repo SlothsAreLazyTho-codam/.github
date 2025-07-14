@@ -10,6 +10,7 @@ I have done several projects and I think you would like to see a few 👀
 3. [Transcendance](https://github.com/SlothsAreLazyTho-codam/transcendance) - Transcendance is a online platform built for playing ping pong.
 4. [Libft](https://github.com/SlothsAreLazyTho-codam/libft) - LibFT is a C library built to make your life easier.
 5. [Inception](https://github.com/SlothsAreLazyTho-codam/inception) - A Simple docker environment setup to run wordpress with database.
+6. [ft_irc](https://github.com/SlothsAreLazyTho/ft_irc) - A very unique IRC server built in C++ using modern style functions with bot implementation! 🤖
 
 For any more information, please feel free to reachout through my contact information provided in my CV submitted in the application send by me 👻
 
